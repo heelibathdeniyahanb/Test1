@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "alRZMzSiLmbtRcQyVzgVzA7lEAd5krXVdCI7L3vZLpk=",
+  "Source": "SolexCode.CRM.API.New",
+  "BasePath": "_content/SolexCode.CRM.API.New",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SolexCode.CRM.API.New\\wwwroot",
+      "Source": "SolexCode.CRM.API.New",
+      "ContentRoot": "C:\\Users\\LAPMART\\Desktop\\NimashaBuddhiniBrnch\\SolexCodeCRMNew\\Server\\SolexCode.CRM.API.New\\SolexCode.CRM.API.New\\wwwroot\\",
+      "BasePath": "_content/SolexCode.CRM.API.New",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\LAPMART\\Desktop\\NimashaBuddhiniBrnch\\SolexCodeCRMNew\\Server\\SolexCode.CRM.API.New\\SolexCode.CRM.API.New\\wwwroot\\upload\\image\\me.jpg",
+      "SourceId": "SolexCode.CRM.API.New",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LAPMART\\Desktop\\NimashaBuddhiniBrnch\\SolexCodeCRMNew\\Server\\SolexCode.CRM.API.New\\SolexCode.CRM.API.New\\wwwroot\\",
+      "BasePath": "_content/SolexCode.CRM.API.New",
+      "RelativePath": "upload/image/me.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\image\\me.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LAPMART\\Desktop\\NimashaBuddhiniBrnch\\SolexCodeCRMNew\\Server\\SolexCode.CRM.API.New\\SolexCode.CRM.API.New\\wwwroot\\upload\\image\\OIP.jpg",
+      "SourceId": "SolexCode.CRM.API.New",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LAPMART\\Desktop\\NimashaBuddhiniBrnch\\SolexCodeCRMNew\\Server\\SolexCode.CRM.API.New\\SolexCode.CRM.API.New\\wwwroot\\",
+      "BasePath": "_content/SolexCode.CRM.API.New",
+      "RelativePath": "upload/image/OIP.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\image\\OIP.jpg"
+    }
+  ]
+}
